@@ -168,6 +168,14 @@ history = model.fit(train_data,
 
 > The `train` and `test` data accuracies are high. However, the confusion matrix shows that the model is not accurate.
 
+## Predictions:
+<img width="420" height="420" alt="model_1_pred_1_keep" src="https://github.com/user-attachments/assets/a9244bd8-8756-42fc-b58a-493a8c9c51bc" />
+<img width="420" height="420" alt="model_1_pred_0" src="https://github.com/user-attachments/assets/47e36682-bb6c-4029-8d0f-26909bf392e7" />
+<img width="420" height="420" alt="model_1_pred_0_keep" src="https://github.com/user-attachments/assets/45a1aa77-eb38-466d-81b5-25dbda303647" />
+<img width="420" height="420" alt="model_1_pred_4" src="https://github.com/user-attachments/assets/312ecbb5-d652-4acd-878d-ec3c171ca398" />
+
+
+
 # Nex Step:
 Build a more accurate model.
 
